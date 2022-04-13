@@ -6,7 +6,8 @@ This repo has the Revised DA Algorithm and it's test cases. THe test cases files
 
 
 Team
-
+```
 181CO215 - Chinmay Gupta
 181CO220 - Hardik L Harti
 181CO225 - K V Sumanth Reddy
+```
