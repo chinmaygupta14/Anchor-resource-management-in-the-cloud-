@@ -1,22 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 typedef long long ll;
-        // typedef vector<ll> vi;
-        // typedef set<ll> si;
-        // typedef vector<char> vc;
-        // typedef set<char> sc;
-        // typedef pair<ll,ll> pii;
-        // typedef multiset<ll> msi;
-        // typedef multiset<char> msc;
-        // #define forp(i,a,b) for(ll i=a;i<b;i++)
-        // #define form(i,a,b) for (ll i=a;i>=b;i--)
-        // #define pb push_back
-        // #define mp make_pair
-       
-       
-        
-        
-       
 int main(void)
 {
         //   ios_base::sync_with_stdio(false); 
@@ -89,7 +73,7 @@ int main(void)
         if(jobPreferences[jobID] == 0) {
             freeJob.erase(freeJob.begin());
             continue;
-        } 
+        }
         int in=0;
         while(jobs[jobID][in] == -1 )in++;
         int m = jobs[jobID][in];
@@ -137,9 +121,9 @@ int main(void)
                         if(jobs[jobID][j] == m) jobs[jobID][j]=-1;
                     }
                     
-                    for(int mac=0; mac<machines[m].size();mac++){
-                        if(machines[m][mac] == jobID) machines[m][mac] = -1;
-                    }
+                    // for(int mac=0; mac<machines[m].size();mac++){
+                    //     if(machines[m][mac] == jobID) machines[m][mac] = -1;
+                    // }
             }
             
         }
