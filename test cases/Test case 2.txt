@@ -1,0 +1,404 @@
+INPUT:
+
+10
+279
+5
+7
+1
+0
+2
+4
+408
+3
+8
+5
+6
+382
+2
+8
+3
+143
+2
+7
+1
+215
+5
+4
+8
+7
+0
+5
+38
+6
+8
+3
+1
+2
+5
+4
+412
+10
+5
+6
+8
+2
+7
+4
+1
+9
+3
+0
+335
+8
+7
+1
+8
+2
+4
+3
+9
+0
+317
+6
+0
+1
+9
+8
+7
+6
+14
+4
+4
+6
+5
+3
+10
+189
+9
+0
+6
+5
+2
+4
+3
+7
+1
+8
+258
+10
+9
+8
+7
+3
+5
+6
+1
+0
+2
+4
+223
+2
+3
+7
+312
+3
+6
+2
+3
+432
+5
+7
+2
+5
+0
+6
+292
+7
+2
+6
+7
+4
+9
+8
+5
+189
+3
+3
+2
+5
+23
+6
+1
+0
+2
+4
+5
+8
+244
+1
+6
+179
+4
+4
+0
+6
+1
+
+
+OUTPUT:
+
+enter the number of jobs:- 
+enter the size of the job 0
+enter the number of preferences of job 0 
+enter the preferences of the job 0 
+enter the size of the job 1
+enter the number of preferences of job 1 
+enter the preferences of the job 1 
+enter the size of the job 2
+enter the number of preferences of job 2 
+enter the preferences of the job 2 
+enter the size of the job 3
+enter the number of preferences of job 3 
+enter the preferences of the job 3 
+enter the size of the job 4
+enter the number of preferences of job 4 
+enter the preferences of the job 4 
+enter the size of the job 5
+enter the number of preferences of job 5 
+enter the preferences of the job 5 
+enter the size of the job 6
+enter the number of preferences of job 6 
+enter the preferences of the job 6 
+enter the size of the job 7
+enter the number of preferences of job 7 
+enter the preferences of the job 7 
+enter the size of the job 8
+enter the number of preferences of job 8 
+enter the preferences of the job 8 
+enter the size of the job 9
+enter the number of preferences of job 9 
+enter the preferences of the job 9 
+enter the number of machines:- 
+enter the size of the machine 0
+enter the number of preferences of machine 0
+enter the preferences of the machine 0
+enter the size of the machine 1
+enter the number of preferences of machine 1
+enter the preferences of the machine 1
+enter the size of the machine 2
+enter the number of preferences of machine 2
+enter the preferences of the machine 2
+enter the size of the machine 3
+enter the number of preferences of machine 3
+enter the preferences of the machine 3
+enter the size of the machine 4
+enter the number of preferences of machine 4
+enter the preferences of the machine 4
+enter the size of the machine 5
+enter the number of preferences of machine 5
+enter the preferences of the machine 5
+enter the size of the machine 6
+enter the number of preferences of machine 6
+enter the preferences of the machine 6
+enter the size of the machine 7
+enter the number of preferences of machine 7
+enter the preferences of the machine 7
+enter the size of the machine 8
+enter the number of preferences of machine 8
+enter the preferences of the machine 8
+enter the size of the machine 9
+enter the number of preferences of machine 9
+enter the preferences of the machine 9
+iteration :- 1
+189 258 223 312 432 292 189 23 244 179 
+iteration :- 2
+189 258 223 312 432 292 189 23 244 179 
+iteration :- 3
+189 258 223 312 432 292 189 23 244 179 
+iteration :- 4
+189 258 223 312 432 292 189 23 244 179 
+iteration :- 5
+189 258 223 312 153 292 189 23 244 179 
+0 --->4
+iteration :- 6
+189 258 223 312 153 292 189 23 244 179 
+0 --->4
+iteration :- 7
+189 258 223 312 153 292 189 23 244 179 
+0 --->4
+iteration :- 8
+189 258 223 312 153 292 189 23 244 179 
+0 --->4
+iteration :- 9
+189 258 223 312 153 292 189 23 244 179 
+0 --->4
+iteration :- 10
+189 258 223 312 153 292 189 23 244 179 
+0 --->4
+iteration :- 11
+189 258 223 312 153 292 189 23 244 179 
+0 --->4
+iteration :- 12
+189 115 223 312 153 292 189 23 244 179 
+0 --->4
+3 --->1
+iteration :- 13
+189 115 223 312 81 292 189 23 244 179 
+0 --->4
+3 --->1
+4 --->4
+iteration :- 14
+189 115 223 312 81 292 189 23 206 179 
+0 --->4
+3 --->1
+4 --->4
+5 --->8
+iteration :- 15
+189 115 223 312 81 133 189 23 206 179 
+0 --->4
+3 --->1
+4 --->4
+5 --->8
+6 --->5
+iteration :- 16
+189 115 223 312 81 133 189 23 206 179 
+0 --->4
+3 --->1
+4 --->4
+5 --->8
+6 --->5
+iteration :- 17
+189 115 223 312 81 133 189 23 168 179 
+0 --->4
+3 --->1
+4 --->4
+5 --->8
+6 --->5
+iteration :- 18
+189 115 223 312 81 133 189 84 168 179 
+0 --->4
+3 --->1
+4 --->4
+5 --->8
+6 --->5
+7 --->7
+iteration :- 19
+189 307 223 312 81 133 189 84 168 179 
+0 --->4
+3 --->1
+4 --->4
+5 --->8
+6 --->5
+7 --->7
+iteration :- 20
+189 307 223 312 81 133 189 84 168 179 
+0 --->4
+3 --->1
+4 --->4
+5 --->8
+6 --->5
+7 --->7
+iteration :- 21
+309 307 223 312 81 133 189 84 168 179 
+0 --->4
+3 --->1
+4 --->0
+5 --->8
+6 --->5
+7 --->7
+iteration :- 22
+309 307 223 312 81 133 189 84 130 179 
+0 --->4
+3 --->1
+4 --->0
+5 --->8
+6 --->5
+7 --->7
+iteration :- 23
+309 307 223 312 81 133 189 2 130 179 
+0 --->4
+3 --->1
+4 --->0
+5 --->8
+6 --->5
+7 --->7
+iteration :- 24
+309 307 223 312 81 133 189 2 92 179 
+0 --->4
+3 --->1
+4 --->0
+5 --->8
+6 --->5
+7 --->7
+iteration :- 25
+309 307 223 312 81 133 189 2 92 179 
+0 --->4
+3 --->1
+4 --->0
+5 --->8
+6 --->5
+7 --->7
+iteration :- 26
+309 325 223 312 81 133 189 2 92 179 
+0 --->4
+3 --->1
+4 --->0
+5 --->8
+6 --->5
+7 --->7
+8 --->1
+iteration :- 27
+309 325 223 312 81 133 189 63 92 179 
+0 --->4
+3 --->1
+4 --->0
+5 --->8
+6 --->5
+7 --->7
+8 --->1
+iteration :- 28
+309 182 223 312 81 133 189 63 92 179 
+0 --->4
+3 --->1
+4 --->0
+5 --->8
+6 --->5
+7 --->7
+8 --->1
+iteration :- 29
+94 182 223 312 81 133 189 63 92 179 
+0 --->4
+3 --->1
+4 --->0
+5 --->8
+6 --->5
+7 --->7
+8 --->1
+iteration :- 30
+94 182 223 312 81 133 189 63 54 179 
+0 --->4
+3 --->1
+4 --->0
+5 --->8
+6 --->5
+7 --->7
+8 --->1
+iteration :- 31
+94 182 223 312 67 133 189 63 54 179 
+0 --->4
+3 --->1
+4 --->0
+5 --->8
+6 --->5
+7 --->7
+8 --->1
+9 --->4
+94 182 223 312 67 133 189 63 54 179 
+0 --->4
+3 --->1
+4 --->0
+5 --->8
+6 --->5
+7 --->7
+8 --->1
+9 --->4
